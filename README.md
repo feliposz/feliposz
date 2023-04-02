@@ -15,7 +15,6 @@ Please, check my profiles on these sites:
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/feliposz) 
 [![Leet Code](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/feliposz/) 
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-888?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/feliposz) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/feliposz) 
 [![Git Hub](https://img.shields.io/badge/-GitHub-303030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feliposz) 
 [![Steam](https://img.shields.io/badge/-Steam-666?style=for-the-badge&logo=Steam&logoColor=white)](https://stackoverflow.com/users/feliposz) 
 
