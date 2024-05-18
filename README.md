@@ -157,7 +157,7 @@ Some statistics on my GitHub projects:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=feliposz&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliposz&langs_count=10&layout=compact&hide=Scilab,Hack)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=feliposz&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliposz&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5&hide=Scilab,Hack)
 
 </div>
