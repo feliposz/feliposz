@@ -55,7 +55,7 @@ Some of the technologies that I have more experience:
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flate&logo=microsoft-excel&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=fff&style=flat)
 
-I'm always learning something new. Lately I've been focusing on:
+I'm always exploring something new. Lately I've been focusing on:
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
@@ -67,7 +67,7 @@ I'm always learning something new. Lately I've been focusing on:
 
 # 📊 Stats
 
-When learning something new, I like to solidify my knowledge by applying it to side projects outside of work.
+When learning a technology, I like to solidify my knowledge by applying it to side projects outside of work.
 
 Here are some stats on my GitHub projects:
 
