@@ -25,42 +25,36 @@ Please, check my profiles on these sites:
 
 Some of the technologies that I have more experience:
 
-> ***Tip:** Click on the badge to check some of my projects using that technology!*
+> ***Tip:** Click on the [![badges](https://img.shields.io/badge/badges-00599C?logoColor=fff&style=flat)](#) to check some of my projects using that technology!*
 
-Development:
-
+Languages & Tools:<br>
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)](#)
 [![C/C++](https://img.shields.io/badge/C%20%26%20C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c)
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c%23)
 [![.Net Frawework](https://img.shields.io/badge/.Net_Framework-5C2D91?style=flat&logo=.net&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c%23)
-[![ASP.Net MVC](https://img.shields.io/badge/ASP.Net%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)](#)
-
+[![ASP.Net MVC](https://img.shields.io/badge/ASP.Net%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)](#)<br>
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://github.com/feliposz?tab=repositories&q=&type=&language=python&sort=)
 [![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=flat&logo=node.js&logoColor=white)](https://github.com/feliposz?tab=repositories&q=node&type=&language=&sort=)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)](https://github.com/feliposz?tab=repositories&q=express&type=&language=&sort=)
-
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)](https://github.com/feliposz?tab=repositories&q=express&type=&language=&sort=)<br>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)](https://github.com/feliposz?tab=repositories&q=git&type=&language=&sort=)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/feliposz?tab=repositories&q=github&type=&language=&sort=)
 [![Subversion/SVN](https://img.shields.io/badge/Subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white)](#)
 
-Web / Frontend:
-
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://github.com/feliposz/tutorial-compiladores)
+Web / Markup:<br>
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=html&sort=)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://github.com/feliposz?tab=repositories&q=css&type=&language=&sort=)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)](https://github.com/feliposz?tab=repositories&q=&type=&language=javascript&sort=)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://github.com/feliposz?tab=repositories&q=bootstrap&type=&language=&sort=)
 [![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)](https://github.com/feliposz?tab=repositories&q=jquery&type=&language=&sort=)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://github.com/feliposz/tutorial-compiladores)
 
-Databases: 
-
+Databases:<br>
 [![Oracle DBMS](https://img.shields.io/badge/-Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)](https://github.com/feliposz?tab=repositories&q=oracle)
 [![PL/SQL](https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=plsql&sort=)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)](#)
 
-OS & Scripting:
-
+Operating Systems / Scripting:<br>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)](#)
 [![HP-UX](https://img.shields.io/badge/-HP--UX-0096D6?logo=hp&logoColor=fff&style=flat)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
@@ -68,16 +62,14 @@ OS & Scripting:
 [![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)](#)
 [![Shell Script](https://img.shields.io/badge/Shell_Scripts-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
 
-Productivity:
-
+Productivity Tools:<br>
 [![Microsoft Word](https://img.shields.io/badge/Word-2B579A?logo=microsoft-word&logoColor=white)](#)
 [![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flate&logo=microsoft-excel&logoColor=white)](#)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=fff&style=flat)](#)
 
 <hr>
 
-I'm always exploring something new. Lately I've been focusing on:
-
+I'm always exploring something new. Lately I've been focusing on:<br>
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=go)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)](https://github.com/feliposz?tab=repositories&q=sqlite)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
