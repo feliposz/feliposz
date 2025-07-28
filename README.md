@@ -28,8 +28,9 @@ Some of the technologies that I have more experience:
 > ***Tip:** Click on the [![badges](https://img.shields.io/badge/badges-00599C?logoColor=fff&style=flat)](#) to check some of my projects using that technology!*
 
 Languages & Tools:<br>
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)](#)
-[![C/C++](https://img.shields.io/badge/C%20%26%20C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c)
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c%2B%2B)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=go)
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c%23)
 [![.Net Frawework](https://img.shields.io/badge/.Net_Framework-5C2D91?style=flat&logo=.net&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=c%23)
 [![ASP.Net MVC](https://img.shields.io/badge/ASP.Net%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)](#)<br>
@@ -39,6 +40,8 @@ Languages & Tools:<br>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)](https://github.com/feliposz?tab=repositories&q=git&type=&language=&sort=)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/feliposz?tab=repositories&q=github&type=&language=&sort=)
 [![Subversion/SVN](https://img.shields.io/badge/Subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white)](#)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)](#)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
 
 Web / Markup:<br>
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=html&sort=)
@@ -53,6 +56,7 @@ Databases:<br>
 [![Oracle DBMS](https://img.shields.io/badge/-Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)](https://github.com/feliposz?tab=repositories&q=oracle)
 [![PL/SQL](https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=plsql&sort=)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)](https://github.com/feliposz?tab=repositories&q=sqlite)
 
 Operating Systems / Scripting:<br>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)](#)
@@ -61,6 +65,8 @@ Operating Systems / Scripting:<br>
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)](#)
 [![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)](#)
 [![Shell Script](https://img.shields.io/badge/Shell_Scripts-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
+[![WSL](https://img.shields.io/badge/WSL-4D4D4D?logo=windows&logoColor=fff&style=flat)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://github.com/feliposz?tab=repositories&q=docker)
 
 Productivity Tools:<br>
 [![Microsoft Word](https://img.shields.io/badge/Word-2B579A?logo=microsoft-word&logoColor=white)](#)
@@ -70,11 +76,8 @@ Productivity Tools:<br>
 <hr>
 
 I'm always exploring something new. Lately I've been focusing on:<br>
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](https://github.com/feliposz?tab=repositories&q=&type=&language=go)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)](https://github.com/feliposz?tab=repositories&q=sqlite)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
-[![WSL](https://img.shields.io/badge/WSL-4D4D4D?logo=windows&logoColor=fff&style=flat)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://github.com/feliposz?tab=repositories&q=docker)
+- [Computer Science Fundamentals](https://teachyourselfcs.com/)
+- [Computer Architecture and Systems Programming](https://csapp.cs.cmu.edu/3e/home.html)
 
 <br>
 
